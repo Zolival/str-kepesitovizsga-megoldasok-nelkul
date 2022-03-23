@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Movie {\n  constructor() {\n    this.id = 0;\n    this.title = '';\n    this.year = null;\n    this.category = 'Choose Category';\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
